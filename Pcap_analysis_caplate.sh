@@ -3,7 +3,7 @@
 # User Configuration
 PCAP_FILE=$1
 OUTPUT_DIR="malware_analysis_output"
-VT_API_KEY="42d58bab9a247f75ec53d803b4663bf237860e0105ce996d927e50ef7b20ea5a"  # Replace with your VirusTotal API key
+VT_API_KEY="42d58bab9a247f75ec53d803b4663bf237860e0105ce996de50ef7b20ea5a"  # Replace with your VirusTotal API key
 
 # Check for Required Tools
 check_dependencies() {
